@@ -1,0 +1,7 @@
+tmp_results
+data
+~
+__pycache__
+results
+.cache
+sampeld_model_text*
